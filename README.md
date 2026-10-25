@@ -71,6 +71,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Secretflying.com](http://www.secretflying.com/euro-deals/)
 * [Theflightdeal.com](https://www.theflightdeal.com)
 * [Hacktheflight.net](https://hacktheflight.net)
+* [Blamethefare - flight deals from your home airport, checked every day](https://www.blamethefare.com)
 
 ## Group meetings and corporate travel
 * [Travy.io - Easiest way to plan group trips](https://travy.io)
